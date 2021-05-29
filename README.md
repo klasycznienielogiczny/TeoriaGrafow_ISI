@@ -1,6 +1,11 @@
 # Teoria Grafów ISI 2020/2021
  Repozytorium zawierające pliki wykonanego projektu z teorii grafów
 
+Część analityczna znajduje się w całości w pliku _Paluch_projekt_TG_cz_analityczna.pdf_
+Część programistyczna znajduje się w dwóch plikach:
+* plik _BellmanFord.py_ zawiera implementację algorytmu Bellmana-Forda w języku Python
+* plik _Paluch_projekt_TG_cz_projektowa.pdf_ zawiera analizę algorytmu
+
 ## Program wymaga grafu w postaci listy sąsiedztwa!
 
 ## Instrukcja uruchomienia projektu
